@@ -1,3 +1,5 @@
+![Python](https://img.shields.io/badge/Python-3.12%2B-blue?logo=python) ![ROS2](https://img.shields.io/badge/ROS2-Humble%20%2B-blue?logo=ros) ![NVIDIA%20Omniverse](https://img.shields.io/badge/NVIDIA-Omniverse-green?logo=nvidia) ![LLM](https://img.shields.io/badge/LLM-Experimental-orange?logo=ai) ![LangChain](https://img.shields.io/badge/LangChain-0.0.1-lightgrey?logo=langchain) ![OpenAI](https://img.shields.io/badge/OpenAI-API-black?logo=openai) ![License](https://img.shields.io/badge/License-MIT-green.svg) [![GitHub issues](https://img.shields.io/github/issues/ritesh-tiwary/llm-agent-sim-robot)](https://github.com/ritesh-tiwary/llm-agent-sim-robot/issues) [![GitHub stars](https://img.shields.io/github/stars/ritesh-tiwary/llm-agent-sim-robot)](https://github.com/ritesh-tiwary/llm-agent-sim-robot/stargazers)
+
 # LLM Agent Controlling a Simulated Robot
 
 A minimal example showing how a **Large Language Model (LLM)** can control a **simulated robot** using high‑level natural‑language instructions. The LLM outputs structured JSON actions like `move_forward`, `turn`, or `navigate`, which the agent executes inside a PyBullet simulation.
@@ -146,7 +148,7 @@ jobs:
 
 ## 📝 License
 
-MIT License (recommended)
+**[MIT License](LICENSE)**
 
 ---
 
